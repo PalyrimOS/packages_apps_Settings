@@ -157,6 +157,14 @@
         android:defaultValue="true"
         android:order="-100"/>
 
+    <!-- Live Volume Steps -->
+    <Preference
+        android:key="vol_steps"
+        android:title="@string/volume_steps_fragment_title"
+        android:summary="@string/volume_steps_summary"
+        android:fragment="com.android.settings.sound.VolumeStepsFragment"
+        android:order="-95" />
+
     <!-- Also vibration -->
     <Preference
         android:fragment="com.android.settings.accessibility.VibrationSettings"
