@@ -165,6 +165,16 @@
         android:fragment="com.android.settings.sound.VolumeStepsFragment"
         android:order="-95" />
 
+    <!-- Volume dialog timeout -->
+    <com.palyrim.support.preferences.SystemSettingSeekBarPreference
+        android:key="volume_dialog_timeout"
+        android:title="@string/volume_dialog_timeout_title"
+        android:order="-92"
+        android:defaultValue="3"
+        android:max="10"
+        settings:min="1"
+        settings:units="@string/unit_seconds" />
+
     <!-- Also vibration -->
     <Preference
         android:fragment="com.android.settings.accessibility.VibrationSettings"
