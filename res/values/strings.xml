@@ -14221,5 +14221,9 @@
     <string name="build_is_official_summary_oopsie">but, who made this build?</string>
     <string name="build_is_unofficial_summary">Unofficial build by %s</string>
     <string name="build_is_unofficial_summary_oopsie">Psst! please tell the builder that he/she forgot to add maintainer flags!</string>
+
+      <!-- General app strings -->
+      <string name="enable">Enable</string>
+      <string name="general_category">General</string> 
 </resources>
 
