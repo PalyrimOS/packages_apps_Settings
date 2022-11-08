@@ -80,6 +80,18 @@
             android:summary="@string/lockscreen_battery_info_summary"
             android:defaultValue="true" />
 
+        <Preference
+            android:key="udfps_icon_picker"
+            android:title="@string/udfps_icon_picker_title"
+            android:summary="@string/udfps_icon_picker_summary"
+            android:fragment="com.android.settings.lineage.fragments.UdfpsIconPicker" />
+
+        <Preference
+            android:key="udfps_recognizing_animation_preview"
+            android:title="@string/udfps_animation_title"
+            android:summary="@string/udfps_animation_summary"
+            android:fragment="com.android.settings.lineage.fragments.UdfpsAnimation"/>
+
         <com.android.settingslib.RestrictedPreference
             android:key="owner_info_settings"
             android:title="@string/owner_info_settings_title"
