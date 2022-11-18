@@ -109,8 +109,22 @@
     </PreferenceCategory>
 
     <PreferenceCategory
+        android:key="appearance_header"
+        android:title="@string/category_name_appearance">
+
+        <!-- Heads up -->
+        <lineageos.preference.GlobalSettingSwitchPreference
+            android:key="heads_up_notifications_enabled"
+            android:order="24"
+            android:title="@string/heads_up_notifications_enabled_title"
+            android:summary="@string/heads_up_notifications_enabled_summary" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
         android:key="advanced_section_header"
         android:title="@string/advanced_section_header">
+
         <com.android.settingslib.RestrictedPreference
             android:key="zen_mode_notifications"
             android:order="17"
@@ -162,13 +176,6 @@
             android:title="@string/notification_assistant_title"
             android:summary="@string/notification_assistant_summary"
             settings:controller="com.android.settings.notification.NotificationAssistantPreferenceController"/>
-
-        <!-- Heads up -->
-        <lineageos.preference.GlobalSettingSwitchPreference
-            android:key="heads_up_notifications_enabled"
-            android:order="24"
-            android:title="@string/heads_up_notifications_enabled_title"
-            android:summary="@string/heads_up_notifications_enabled_summary" />
 
         <!-- Notification lights -->
         <lineageos.preference.LineagePartsPreference

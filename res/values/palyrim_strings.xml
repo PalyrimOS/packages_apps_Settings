@@ -28,4 +28,11 @@
     
     <string name="app_info_install_time">Installed: %1$s</string>
     <string name="app_info_update_time">Updated: %1$s</string>
+    
+    <!-- Categories -->
+    <string name="category_name_refresh_rate">Refresh rate</string>
+    <string name="category_name_appearance">Appearance</string>
+    <string name="category_name_volumes">Volume</string>
+    <string name="category_name_security">Security</string>
+
 </resources>
