@@ -46,13 +46,6 @@
             android:title="@string/user_add_on_lockscreen_menu"
             settings:controller="com.android.settings.users.AddUserWhenLockedPreferenceController" />
 
-        <Preference
-            android:key="gesture_screen_off_udfps_input_summary"
-            android:title="@string/ambient_display_screen_off_udfps_title"
-            android:fragment="com.android.settings.gestures.ScreenOffUdfpsSettings"
-            settings:searchable="false"
-            settings:controller="com.android.settings.gestures.ScreenOffUdfpsPreferenceController" />
-
         <com.android.settingslib.RestrictedPreference
             android:key="owner_info_settings"
             android:title="@string/owner_info_settings_title"
@@ -60,6 +53,31 @@
 
         </PreferenceCategory>
 
+     <PreferenceCategory
+        android:key="category_name_udfps"
+        android:title="@string/lockscreen_settings_what_to_show_category">
+
+        <Preference
+            android:key="gesture_screen_off_udfps_input_summary"
+            android:title="@string/ambient_display_screen_off_udfps_title"
+            android:fragment="com.android.settings.gestures.ScreenOffUdfpsSettings"
+            settings:searchable="false"
+            settings:controller="com.android.settings.gestures.ScreenOffUdfpsPreferenceController" />
+
+        <Preference
+            android:key="udfps_icon_picker"
+            android:title="@string/udfps_icon_picker_title"
+            android:summary="@string/udfps_icon_picker_summary"
+            android:fragment="com.android.settings.lineage.fragments.UdfpsIconPicker" />
+
+        <Preference
+            android:key="udfps_recognizing_animation_preview"
+            android:title="@string/udfps_animation_title"
+            android:summary="@string/udfps_animation_summary"
+            android:fragment="com.android.settings.lineage.fragments.UdfpsAnimation"/>
+
+    </PreferenceCategory>
+    
     <PreferenceCategory
         android:key="lockscreen_what_to_show"
         android:title="@string/lockscreen_settings_what_to_show_category">
@@ -109,18 +127,6 @@
             android:title="@string/lockscreen_battery_info_title"
             android:summary="@string/lockscreen_battery_info_summary"
             android:defaultValue="true" />
-
-        <Preference
-            android:key="udfps_icon_picker"
-            android:title="@string/udfps_icon_picker_title"
-            android:summary="@string/udfps_icon_picker_summary"
-            android:fragment="com.android.settings.lineage.fragments.UdfpsIconPicker" />
-
-        <Preference
-            android:key="udfps_recognizing_animation_preview"
-            android:title="@string/udfps_animation_title"
-            android:summary="@string/udfps_animation_summary"
-            android:fragment="com.android.settings.lineage.fragments.UdfpsAnimation"/>
 
         <!-- Screen Off animation -->
         <com.palyrim.support.preferences.SystemSettingListPreference
