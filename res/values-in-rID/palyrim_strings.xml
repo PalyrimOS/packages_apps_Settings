@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2022 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- General -->
+    <string name="copied_to_clipboard">Salin ke Papan Klip</string>
+    <string name="longpress_to_clipboard">Tekan lama untuk menyalin</string>
+    <!-- Battery temperature -->
+    <string name="battery_temp">Temperatur baterai</string>
+    <!-- Palyrim Maintainer -->
+    <string name="palyrim_maintainer">Pengelola Perangkat</string>
+    <string name="app_info_install_time">Terpasang: %1$s</string>
+    <string name="app_info_update_time">Diperbarui: %1$s</string>
+    <!-- Categories -->
+    <string name="category_name_refresh_rate">Refresh rate</string>
+    <string name="category_name_appearance">Tampilan</string>
+    <string name="category_name_volumes">Volume</string>
+    <string name="category_name_security">Keamanan</string>
+    <!-- General strings -->
+    <string name="ok">OKE</string>
+    <string name="reset">Atur ulang</string>
+    <string name="cancel">Batal</string>
+    <string name="save">Simpan</string>
+    <string name="discard_changes">Batalkan perubahan</string>
+    <string name="never">Tidak pernah</string>
+    <string name="always">Selalu</string>
+    <string name="caution">Perhatian</string>
+    <string name="delete">Hapus</string>
+    <string name="delete_message">Hapus item yang dipilih?</string>
+    <string name="choose_app">Pilih aplikasi</string>
+    <string name="enable">Aktifkan</string>
+    <string name="disable">Nonaktif</string>
+    <!--  screen, setting option name to change wifi timeout -->
+    <string name="wifi_timeout">Matikan Wi-Fi secara otomatis</string>
+    <!--  screen, setting option summary to change wifi timeout -->
+    <string name="wifi_timeout_summary">Wi-Fi akan dimatikan setelah <xliff:g id="timeout_description">%1$s</xliff:g> jika tidak ada jaringan terhubung</string>
+    <string name="wifi_timeout_summary2">Dinonaktifkan</string>
+    <!-- Connected devices screen, setting option name to change bluetooth timeout -->
+    <string name="bluetooth_timeout">Batas waktu Bluetooth</string>
+    <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
+    <string name="bluetooth_timeout_summary">Bluetooth akan dimatikan setelah <xliff:g id="timeout_description">%1$s</xliff:g> jika tidak ada perangkat terhubung</string>
+    <string name="bluetooth_timeout_summary2">Jangan matikan Bluetooth secara otomatis</string>
+    <!--  screen, setting option summary to change custom timeout -->
+    <string name="custom_timeout_summary_never">Tidak pernah</string>
+    <string name="custom_timeout_summary_5secs">5 detik</string>
+    <string name="custom_timeout_summary_10secs">10 detik</string>
+    <string name="custom_timeout_summary_15secs">15 detik</string>
+    <string name="custom_timeout_summary_30secs">30 detik</string>
+    <string name="custom_timeout_summary_1min">1 menit</string>
+    <string name="custom_timeout_summary_2mins">2 menit</string>
+    <string name="custom_timeout_summary_5mins">5 menit</string>
+    <string name="custom_timeout_summary_10mins">10 menit</string>
+    <string name="custom_timeout_summary_20mins">20 menit</string>
+    <string name="custom_timeout_summary_30mins">30 menit</string>
+    <string name="custom_timeout_summary_1hour">1 jam</string>
+    <string name="custom_timeout_summary_2hours">2 jam</string>
+    <string name="custom_timeout_summary_4hours">4 jam</string>
+    <string name="custom_timeout_summary_8hours">8 jam</string>
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Info pengisian daya pada layar kunci</string>
+    <string name="lockscreen_battery_info_summary">Tampilkan arus pengisian, voltase, watt, dan suhu baterai pada layar kunci saat mengisi daya</string>
+    <!-- Adaptive Playback -->
+    <string name="adaptive_playback_screen_title">Pemutaran Adaptif</string>
+    <string name="adaptive_playback_enabled">Gunakan Pemutaran Adaptif</string>
+    <string name="adaptive_playback_disabled_summary">Mati</string>
+    <string name="adaptive_playback_intro_text">Secara otomatis menjeda media saat volume dimatikan dan akan dilanjutkan secara otomatis saat volume dihidupkan dalam waktu yang ditentukan.</string>
+    <string name="adaptive_playback_timeout_title">Gunakan batas waktu</string>
+    <string name="adaptive_playback_timeout_none">Tanpa batas waktu</string>
+    <string name="adaptive_playback_timeout_none_summary">Aktif (tidak ada batas waktu)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 detik</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Aktif (30 detik)</string>
+    <string name="adaptive_playback_timeout_1_min">1 menit</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Aktif (1 menit)</string>
+    <string name="adaptive_playback_timeout_2_min">2 menit</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Aktif (2 menit)</string>
+    <string name="adaptive_playback_timeout_5_min">5 menit</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Aktif (5 menit)</string>
+    <string name="adaptive_playback_timeout_10_min">10 menit</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Aktif (10 menit)</string>
+    <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">Usap untuk menangkap layar</string>
+    <string name="swipe_to_screenshot_summary">Gesek tiga jari ke bawah untuk mengambil tangkapan layar</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">Ganti notifikasi mengambang dengan versi ticker yang didesain ulang yang ramping dan tidak terlalu invasif</string>
+    <string name="reticker_colored_title">Gunakan latar belakang berwarna sesuai aplikasi</string>
+    <string name="reticker_colored_summary">Ganti warna latar belakang reTicker menggunakan warna utama notifikasi aplikasi</string>
+    <!-- Font style / Icon pack -->
+    <string name="theme_customization_font_title">Gaya huruf</string>
+    <string name="theme_customization_font_summary">Setel gaya font sistem</string>
+    <string name="theme_customization_icon_pack_title">Paket Icon</string>
+    <string name="theme_customization_icon_pack_summary">Atur gaya kustom paket icon</string>
+    <string name="theme_customization_icon_shape_title">Bentuk icon</string>
+    <string name="theme_customization_icon_shape_summary">Atur gaya bentuk icon pada sistem</string>
+    <string name="theme_customization_signal_icon_title">Gaya icon sinyal</string>
+    <string name="theme_customization_signal_icon_summary">Atur gaya kustom icon sinyal</string>
+    <string name="theme_customization_wifi_icon_title">Gaya icon WiFi</string>
+    <string name="theme_customization_wifi_icon_summary">Atur gaya kustom icon wifi</string>
+    <!-- Ignore secure window -->
+    <string name="developer_options_category">Opsi Pengembang</string>
+    <string name="ignore_window_secure_title">Abaikan hamparan pengaman privasi</string>
+    <string name="ignore_window_secure_summary">Ini menghapus batas tangkapan layar dan rekaman layar untuk semua aplikasi. Biasanya, aplikasi khusus diganti dengan area hitam dalam rekaman. Ini bisa nyaman dalam beberapa kasus tetapi dapat menyebabkan kebocoran privasi. Setelah mengubah sakelar ini, Anda mungkin perlu memulai ulang aplikasi agar perubahan diterapkan</string>
+    <!-- Screen Off animation -->
+    <string name="screen_off_animation_title">Animasi layar mati</string>
+    <string name="screen_off_animation_default">Default</string>
+    <string name="screen_off_animation_crt">CRT</string>
+    <string name="screen_off_animation_scale">Skala</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Ruang Game</string>
+    <string name="game_space_summary">Tingkatkan pengalaman bermain game Anda</string>
+</resources>
