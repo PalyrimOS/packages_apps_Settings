@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2022 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- General -->
+    <string name="copied_to_clipboard">Copiado al portapapeles</string>
+    <string name="longpress_to_clipboard">Pulsación larga para copiar</string>
+    <!-- Battery temperature -->
+    <string name="battery_temp">Temperatura de la batería</string>
+    <!-- Palyrim Maintainer -->
+    <string name="palyrim_maintainer">Mantenedor de dispositivo</string>
+    <string name="app_info_install_time">Instalado: %1$s</string>
+    <string name="app_info_update_time">Actualizado: %1$s</string>
+    <!-- Categories -->
+    <string name="category_name_refresh_rate">Tasa de refresco</string>
+    <string name="category_name_appearance">Apariencia</string>
+    <string name="category_name_volumes">Volumen</string>
+    <string name="category_name_security">Seguridad</string>
+    <!-- General strings -->
+    <string name="ok">OK</string>
+    <string name="reset">Reestablecer</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="discard_changes">Descartar cambios</string>
+    <string name="never">Nunca</string>
+    <string name="always">Siempre</string>
+    <string name="caution">Advertencia</string>
+    <string name="delete">Borrar</string>
+    <string name="delete_message">¿Eliminar el elemento seleccionado?</string>
+    <string name="choose_app">Elegir aplicación</string>
+    <string name="enable">Activar</string>
+    <string name="disable">Desactivar</string>
+    <!--  screen, setting option name to change wifi timeout -->
+    <string name="wifi_timeout">Desactivar Wi-Fi automáticamente</string>
+    <!--  screen, setting option summary to change wifi timeout -->
+    <string name="wifi_timeout_summary">El Wi-Fi se apagará tras <xliff:g id="timeout_description">%1$s</xliff:g> si no se conectó a ninguna red</string>
+    <string name="wifi_timeout_summary2">Desactivado</string>
+    <!-- Connected devices screen, setting option name to change bluetooth timeout -->
+    <string name="bluetooth_timeout">Tiempo de espera de Bluetooth</string>
+    <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
+    <string name="bluetooth_timeout_summary">El Bluetooth se apagará después de <xliff:g id="timeout_description">%1$s</xliff:g> si no hay dispositivos conectados</string>
+    <string name="bluetooth_timeout_summary2">No apagar automáticamente el Bluetooth</string>
+    <!--  screen, setting option summary to change custom timeout -->
+    <string name="custom_timeout_summary_never">Nunca</string>
+    <string name="custom_timeout_summary_5secs">5 segundos</string>
+    <string name="custom_timeout_summary_10secs">10 segundos</string>
+    <string name="custom_timeout_summary_15secs">15 segundos</string>
+    <string name="custom_timeout_summary_30secs">30 segundos</string>
+    <string name="custom_timeout_summary_1min">1 minuto</string>
+    <string name="custom_timeout_summary_2mins">2 minutos</string>
+    <string name="custom_timeout_summary_5mins">5 minutos</string>
+    <string name="custom_timeout_summary_10mins">10 minutos</string>
+    <string name="custom_timeout_summary_20mins">20 minutos</string>
+    <string name="custom_timeout_summary_30mins">30 minutos</string>
+    <string name="custom_timeout_summary_1hour">1 hora</string>
+    <string name="custom_timeout_summary_2hours">2 horas</string>
+    <string name="custom_timeout_summary_4hours">4 horas</string>
+    <string name="custom_timeout_summary_8hours">8 horas</string>
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Información de carga en la pantalla de bloqueo</string>
+    <string name="lockscreen_battery_info_summary">Muestra la corriente de carga, voltaje, potencia y temperatura de la batería en la pantalla de bloqueo mientras se carga</string>
+    <!-- Adaptive Playback -->
+    <string name="adaptive_playback_screen_title">Pausa Inteligente</string>
+    <string name="adaptive_playback_enabled">Usar pausa inteligente</string>
+    <string name="adaptive_playback_disabled_summary">Apagado</string>
+    <string name="adaptive_playback_intro_text">Pausa automáticamente el multimedia cuando el volumen está silenciado y se reanudará cuando el volumen sea restaurado dentro del tiempo establecido.</string>
+    <string name="adaptive_playback_timeout_title">Use a timeout of</string>
+    <string name="adaptive_playback_timeout_none">No timeout</string>
+    <string name="adaptive_playback_timeout_none_summary">On (no timeout)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 seconds</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">On (30 seconds)</string>
+    <string name="adaptive_playback_timeout_1_min">1 minute</string>
+    <string name="adaptive_playback_timeout_1_min_summary">On (1 minute)</string>
+    <string name="adaptive_playback_timeout_2_min">2 minutes</string>
+    <string name="adaptive_playback_timeout_2_min_summary">On (2 minutes)</string>
+    <string name="adaptive_playback_timeout_5_min">5 minutes</string>
+    <string name="adaptive_playback_timeout_5_min_summary">On (5 minutes)</string>
+    <string name="adaptive_playback_timeout_10_min">10 minutes</string>
+    <string name="adaptive_playback_timeout_10_min_summary">On (10 minutes)</string>
+    <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">Swipe to screenshot</string>
+    <string name="swipe_to_screenshot_summary">Swipe 3 fingers down the screen to take a screenshot</string>
+    <!-- reTicker -->
+    <string name="reticker_title">reTicker</string>
+    <string name="reticker_summary">Replace heads-up notification with slim and less invasive version of redesigned ticker</string>
+    <string name="reticker_colored_title">Use app colored background</string>
+    <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
+    <!-- Font style / Icon pack -->
+    <string name="theme_customization_font_title">Font style</string>
+    <string name="theme_customization_font_summary">Set system font style</string>
+    <string name="theme_customization_icon_pack_title">Icon pack</string>
+    <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
+    <string name="theme_customization_icon_shape_title">Icon shape</string>
+    <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
+    <string name="theme_customization_signal_icon_title">Signal icon style</string>
+    <string name="theme_customization_signal_icon_summary">Set custom signal icon style</string>
+    <string name="theme_customization_wifi_icon_title">WiFi icon style</string>
+    <string name="theme_customization_wifi_icon_summary">Set custom wifi icon style</string>
+    <!-- Ignore secure window -->
+    <string name="developer_options_category">Developer Options</string>
+    <string name="ignore_window_secure_title">Ignore window secure flags</string>
+    <string name="ignore_window_secure_summary">This removes the screenshots and screenrecords limits for all applications. Normally, special applications are replaced with black areas in records. This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect</string>
+    <!-- Screen Off animation -->
+    <string name="screen_off_animation_title">Screen off animation</string>
+    <string name="screen_off_animation_default">Default</string>
+    <string name="screen_off_animation_crt">CRT</string>
+    <string name="screen_off_animation_scale">Scale</string>
+    <!-- Game Space -->
+    <string name="game_space_title">Game Space</string>
+    <string name="game_space_summary">Enhance your gaming experience</string>
+</resources>
