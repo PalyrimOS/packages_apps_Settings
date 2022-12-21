@@ -98,17 +98,6 @@
     <string name="reticker_summary">Replace heads-up notification with slim and less invasive version of redesigned ticker</string>
     <string name="reticker_colored_title">Use app colored background</string>
     <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
-    <!-- Font style / Icon pack -->
-    <string name="theme_customization_font_title">Font style</string>
-    <string name="theme_customization_font_summary">Set system font style</string>
-    <string name="theme_customization_icon_pack_title">Icon pack</string>
-    <string name="theme_customization_icon_pack_summary">Set custom icon pack style</string>
-    <string name="theme_customization_icon_shape_title">Icon shape</string>
-    <string name="theme_customization_icon_shape_summary">Set system icon shape style</string>
-    <string name="theme_customization_signal_icon_title">Signal icon style</string>
-    <string name="theme_customization_signal_icon_summary">Set custom signal icon style</string>
-    <string name="theme_customization_wifi_icon_title">WiFi icon style</string>
-    <string name="theme_customization_wifi_icon_summary">Set custom wifi icon style</string>
     <!-- Ignore secure window -->
     <string name="developer_options_category">Developer Options</string>
     <string name="ignore_window_secure_title">Ignore window secure flags</string>
