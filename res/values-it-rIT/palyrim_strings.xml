@@ -22,8 +22,8 @@
     <string name="battery_temp">Temperatura della batteria</string>
     <!-- Palyrim Maintainer -->
     <string name="palyrim_maintainer">Manutentore del dispositivo</string>
-    <string name="app_info_install_time">Installata: %1$s</string>
-    <string name="app_info_update_time">Aggiornata: %1$s</string>
+    <string name="app_info_install_time">Installata il: %1$s</string>
+    <string name="app_info_update_time">Aggiornata il: %1$s</string>
     <!-- Categories -->
     <string name="category_name_refresh_rate">Frequenza di aggiornamento</string>
     <string name="category_name_appearance">Aspetto</string>
@@ -107,7 +107,7 @@
     <string name="theme_customization_icon_shape_summary">Imposta la forma delle icone di sistema</string>
     <string name="theme_customization_signal_icon_title">Stile icona segnale</string>
     <string name="theme_customization_signal_icon_summary">Imposta lo stile dell\'icona del segnale</string>
-    <string name="theme_customization_wifi_icon_title">Stile icona Wi-Fi</string>
+    <string name="theme_customization_wifi_icon_title">Stile icona del Wi-Fi</string>
     <string name="theme_customization_wifi_icon_summary">Imposta lo stile dell\'icona del Wi-Fi</string>
     <!-- Ignore secure window -->
     <string name="developer_options_category">Opzioni sviluppatore</string>
