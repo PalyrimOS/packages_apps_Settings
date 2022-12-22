@@ -34,6 +34,7 @@
     <string name="category_name_appearance">Appearance</string>
     <string name="category_name_volumes">Volume</string>
     <string name="category_name_security">Security</string>
+    <string name="theming">Theming</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
