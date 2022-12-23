@@ -29,6 +29,7 @@
     <string name="category_name_appearance">Giao diện</string>
     <string name="category_name_volumes">Âm lượng</string>
     <string name="category_name_security">Bảo mật</string>
+    <string name="theming">Theming</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Thiết lập lại</string>
