@@ -29,6 +29,7 @@
     <string name="category_name_appearance">Оформление</string>
     <string name="category_name_volumes">Громкость</string>
     <string name="category_name_security">Безопасность</string>
+    <string name="theming">Theming</string>
     <!-- General strings -->
     <string name="ok">Ок</string>
     <string name="reset">Сброс</string>
