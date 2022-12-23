@@ -29,6 +29,7 @@
     <string name="category_name_appearance">Görünüş</string>
     <string name="category_name_volumes">Ses</string>
     <string name="category_name_security">Güvenlik</string>
+    <string name="theming">Theming</string>
     <!-- General strings -->
     <string name="ok">Tamam</string>
     <string name="reset">Sıfırla</string>
