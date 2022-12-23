@@ -29,6 +29,7 @@
     <string name="category_name_appearance">Apariencia</string>
     <string name="category_name_volumes">Volumen</string>
     <string name="category_name_security">Seguridad</string>
+    <string name="theming">Theming</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Reestablecer</string>
