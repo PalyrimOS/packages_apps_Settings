@@ -186,4 +186,7 @@
     <!-- UDFPS animation -->
     <string name="udfps_animation_title">UDFPS animation effect</string>
     <string name="udfps_animation_summary">Choose animation effect</string>
+
+    <string name="theme_customization_lock_clock_title">Clock font style</string>
+    <string name="theme_customization_lock_clock_summary">Set lockscreen clock font style</string>
 </resources>

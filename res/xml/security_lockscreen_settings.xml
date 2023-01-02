@@ -102,6 +102,13 @@
             android:title="@string/lockscreen_media_art_title"
             android:defaultValue="false" />
 
+        <!-- Lockscreen Clock Font style -->
+        <Preference
+            android:key="android.theme.customization.lockscreen_clock_font"
+            android:title="@string/theme_customization_lock_clock_title"
+            android:summary="@string/theme_customization_lock_clock_summary"
+            android:fragment="com.android.settings.lineage.fragments.ui.LockClockFontsPicker"/>
+
         <SwitchPreference
             android:key="lockscreen_double_line_clock_switch"
             android:title="@string/lockscreen_double_line_clock_setting_toggle"
