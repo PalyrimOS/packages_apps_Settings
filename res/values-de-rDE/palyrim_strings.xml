@@ -16,101 +16,101 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General -->
-    <string name="copied_to_clipboard">Copied to clipboard</string>
-    <string name="longpress_to_clipboard">Long-press to copy</string>
+    <string name="copied_to_clipboard">In die Zwischenablage kopiert</string>
+    <string name="longpress_to_clipboard">Gedrückt halten zum Kopieren</string>
     <!-- Battery temperature -->
-    <string name="battery_temp">Battery temperature</string>
+    <string name="battery_temp">Akku Temperatur</string>
     <!-- Palyrim Maintainer -->
-    <string name="palyrim_maintainer">Device Maintainer</string>
-    <string name="app_info_install_time">Installed: %1$s</string>
-    <string name="app_info_update_time">Updated: %1$s</string>
+    <string name="palyrim_maintainer">Gerätebetreuer</string>
+    <string name="app_info_install_time">Installiert: %1$s</string>
+    <string name="app_info_update_time">Aktualisiert: %1$s</string>
     <!-- Categories -->
-    <string name="category_name_refresh_rate">Refresh rate</string>
-    <string name="category_name_appearance">Appearance</string>
-    <string name="category_name_volumes">Volume</string>
-    <string name="category_name_security">Security</string>
+    <string name="category_name_refresh_rate">Bildwiederholrate</string>
+    <string name="category_name_appearance">Darstellung</string>
+    <string name="category_name_volumes">Lautstärke</string>
+    <string name="category_name_security">Sicherheit</string>
     <string name="theming">Theming</string>
     <!-- General strings -->
     <string name="ok">OK</string>
-    <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="discard_changes">Discard changes</string>
-    <string name="never">Never</string>
-    <string name="always">Always</string>
-    <string name="caution">Caution</string>
-    <string name="delete">Delete</string>
-    <string name="delete_message">Remove selected item?</string>
-    <string name="choose_app">Choose app</string>
-    <string name="enable">Enable</string>
-    <string name="disable">Disable</string>
+    <string name="reset">Zurücksetzen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="save">Speichern</string>
+    <string name="discard_changes">Änderungen verwerfen</string>
+    <string name="never">Nie</string>
+    <string name="always">Immer</string>
+    <string name="caution">Achtung</string>
+    <string name="delete">Löschen</string>
+    <string name="delete_message">Ausgewähltes Element entfernen?</string>
+    <string name="choose_app">Anwendung auswählen</string>
+    <string name="enable">Aktivieren</string>
+    <string name="disable">Deaktivieren</string>
     <!--  screen, setting option name to change wifi timeout -->
-    <string name="wifi_timeout">Turn off Wi-Fi automatically</string>
+    <string name="wifi_timeout">WLAN automatisch ausschalten</string>
     <!--  screen, setting option summary to change wifi timeout -->
-    <string name="wifi_timeout_summary">Wi-Fi will turn off after <xliff:g id="timeout_description">%1$s</xliff:g> if no network connected</string>
-    <string name="wifi_timeout_summary2">Disabled</string>
+    <string name="wifi_timeout_summary">WLAN wird nach <xliff:g id="timeout_description">%1$s</xliff:g> ausgeschaltet, sofern kein Netzwerk verbunden ist</string>
+    <string name="wifi_timeout_summary2">Deaktiviert</string>
     <!-- Connected devices screen, setting option name to change bluetooth timeout -->
-    <string name="bluetooth_timeout">Bluetooth timeout</string>
+    <string name="bluetooth_timeout">Bluetooth automatisch ausschalten</string>
     <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
-    <string name="bluetooth_timeout_summary">Bluetooth will turn off after <xliff:g id="timeout_description">%1$s</xliff:g> if no devices connected</string>
-    <string name="bluetooth_timeout_summary2">Do not automatically turn off Bluetooth</string>
+    <string name="bluetooth_timeout_summary">Bluetooth wird nach <xliff:g id="timeout_description">%1$s</xliff:g> ausgeschaltet, sofern kein Gerät verbunden ist</string>
+    <string name="bluetooth_timeout_summary2">Bluetooth nie automatisch ausschalten</string>
     <!--  screen, setting option summary to change custom timeout -->
-    <string name="custom_timeout_summary_never">Never</string>
-    <string name="custom_timeout_summary_5secs">5 seconds</string>
-    <string name="custom_timeout_summary_10secs">10 seconds</string>
-    <string name="custom_timeout_summary_15secs">15 seconds</string>
-    <string name="custom_timeout_summary_30secs">30 seconds</string>
-    <string name="custom_timeout_summary_1min">1 minute</string>
-    <string name="custom_timeout_summary_2mins">2 minutes</string>
-    <string name="custom_timeout_summary_5mins">5 minutes</string>
-    <string name="custom_timeout_summary_10mins">10 minutes</string>
-    <string name="custom_timeout_summary_20mins">20 minutes</string>
-    <string name="custom_timeout_summary_30mins">30 minutes</string>
-    <string name="custom_timeout_summary_1hour">1 hour</string>
-    <string name="custom_timeout_summary_2hours">2 hours</string>
-    <string name="custom_timeout_summary_4hours">4 hours</string>
-    <string name="custom_timeout_summary_8hours">8 hours</string>
+    <string name="custom_timeout_summary_never">Nie</string>
+    <string name="custom_timeout_summary_5secs">5 Sekunden</string>
+    <string name="custom_timeout_summary_10secs">10 Sekunden</string>
+    <string name="custom_timeout_summary_15secs">15 Sekunden</string>
+    <string name="custom_timeout_summary_30secs">30 Sekunden</string>
+    <string name="custom_timeout_summary_1min">1 Minute</string>
+    <string name="custom_timeout_summary_2mins">2 Minuten</string>
+    <string name="custom_timeout_summary_5mins">5 Minuten</string>
+    <string name="custom_timeout_summary_10mins">10 Minuten</string>
+    <string name="custom_timeout_summary_20mins">20 Minuten</string>
+    <string name="custom_timeout_summary_30mins">30 Minuten</string>
+    <string name="custom_timeout_summary_1hour">1 Stunde</string>
+    <string name="custom_timeout_summary_2hours">2 Stunden</string>
+    <string name="custom_timeout_summary_4hours">4 Stunden</string>
+    <string name="custom_timeout_summary_8hours">8 Stunden</string>
     <!-- Lockscreen battery info indicator  -->
-    <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
-    <string name="lockscreen_battery_info_summary">Show charging current, voltage, wattage and battery temperature on lockscreen while charging</string>
+    <string name="lockscreen_battery_info_title">Sperrbildschirm Ladeinformationen</string>
+    <string name="lockscreen_battery_info_summary">Zeige Ladestrom, Spannung, Wattleistung und Batterietemperatur während des Ladens auf dem Sperrbildschirm</string>
     <!-- Adaptive Playback -->
-    <string name="adaptive_playback_screen_title">Smart Pause</string>
-    <string name="adaptive_playback_enabled">Use smart pause</string>
-    <string name="adaptive_playback_disabled_summary">Off</string>
-    <string name="adaptive_playback_intro_text">Automatically pauses media when the volume is muted and will resume automatically when volume is restored within the set time.</string>
-    <string name="adaptive_playback_timeout_title">Use a timeout of</string>
-    <string name="adaptive_playback_timeout_none">No timeout</string>
-    <string name="adaptive_playback_timeout_none_summary">On (no timeout)</string>
-    <string name="adaptive_playback_timeout_30_secs">30 seconds</string>
-    <string name="adaptive_playback_timeout_30_secs_summary">On (30 seconds)</string>
-    <string name="adaptive_playback_timeout_1_min">1 minute</string>
-    <string name="adaptive_playback_timeout_1_min_summary">On (1 minute)</string>
-    <string name="adaptive_playback_timeout_2_min">2 minutes</string>
-    <string name="adaptive_playback_timeout_2_min_summary">On (2 minutes)</string>
-    <string name="adaptive_playback_timeout_5_min">5 minutes</string>
-    <string name="adaptive_playback_timeout_5_min_summary">On (5 minutes)</string>
-    <string name="adaptive_playback_timeout_10_min">10 minutes</string>
-    <string name="adaptive_playback_timeout_10_min_summary">On (10 minutes)</string>
+    <string name="adaptive_playback_screen_title">Adaptive Medienwiedergabe</string>
+    <string name="adaptive_playback_enabled">Adaptive Medienwiedergabe verwenden</string>
+    <string name="adaptive_playback_disabled_summary">Aus</string>
+    <string name="adaptive_playback_intro_text">Hält Medien automatisch an, wenn die Lautstärke stumm geschaltet wird, und wird automatisch fortgesetzt, wenn die Lautstärke innerhalb der festgelegten Zeit wiederhergestellt wird.</string>
+    <string name="adaptive_playback_timeout_title">Abschalten nach</string>
+    <string name="adaptive_playback_timeout_none">Nicht Abschalten</string>
+    <string name="adaptive_playback_timeout_none_summary">An (kein Zeitlimit)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 Sekunden</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">An (30 Sekunden)</string>
+    <string name="adaptive_playback_timeout_1_min">1 Minute</string>
+    <string name="adaptive_playback_timeout_1_min_summary">An (1 Minute)</string>
+    <string name="adaptive_playback_timeout_2_min">2 Minuten</string>
+    <string name="adaptive_playback_timeout_2_min_summary">An (2 Minuten)</string>
+    <string name="adaptive_playback_timeout_5_min">5 Minuten</string>
+    <string name="adaptive_playback_timeout_5_min_summary">An (5 Minuten)</string>
+    <string name="adaptive_playback_timeout_10_min">10 Minuten</string>
+    <string name="adaptive_playback_timeout_10_min_summary">An (10 Minuten)</string>
     <!-- Swipe to screenshot -->
-    <string name="swipe_to_screenshot_title">Swipe to screenshot</string>
-    <string name="swipe_to_screenshot_summary">Swipe 3 fingers down the screen to take a screenshot</string>
+    <string name="swipe_to_screenshot_title">Wischen um Bildschirmfoto zu erstellen</string>
+    <string name="swipe_to_screenshot_summary">Mit drei Fingern nach unten wischen, um einen Screenshot zu erstellen</string>
     <!-- reTicker -->
     <string name="reticker_title">reTicker</string>
-    <string name="reticker_summary">Replace heads-up notification with slim and less invasive version of redesigned ticker</string>
-    <string name="reticker_colored_title">Use app colored background</string>
-    <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
+    <string name="reticker_summary">Ersetzt Pop-up-Benachrichtigungen durch neu gestaltete und schmälere, unaufdringlichere Ticker</string>
+    <string name="reticker_colored_title">Farbigen Hintergrund der Anwendung verwenden</string>
+    <string name="reticker_colored_summary">Hintergrundfarbe von reTicker durch die Hauptfarbe der Benachrichtigungs-App ersetzen</string>
     <!-- Ignore secure window -->
-    <string name="developer_options_category">Developer Options</string>
-    <string name="ignore_window_secure_title">Ignore window secure flags</string>
-    <string name="ignore_window_secure_summary">This removes the screenshots and screenrecords limits for all applications. Normally, special applications are replaced with black areas in records. This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect</string>
+    <string name="developer_options_category">Entwickleroptionen</string>
+    <string name="ignore_window_secure_title">Secure Flags Ignorieren</string>
+    <string name="ignore_window_secure_summary">Dadurch werden die Beschränkungen für Screenshots und Bildschirmaufzeichnungen für alle Anwendungen aufgehoben. Normalerweise werden spezielle Anwendungen durch schwarze Bereiche in Aufzeichnungen ersetzt. Dies kann in manchen Fällen praktisch sein, kann aber auch zu Lücken im Schutz der Privatsphäre führen. Nach dem Ändern dieses Schalters müssen Sie möglicherweise die Anwendungen neu starten, damit die Änderung wirksam wird.</string>
     <!-- Screen Off animation -->
-    <string name="screen_off_animation_title">Screen off animation</string>
-    <string name="screen_off_animation_default">Default</string>
+    <string name="screen_off_animation_title">Bildschirm-aus Animation</string>
+    <string name="screen_off_animation_default">Standard</string>
     <string name="screen_off_animation_crt">CRT</string>
     <string name="screen_off_animation_scale">Scale</string>
     <!-- Game Space -->
-    <string name="game_space_title">Game Space</string>
-    <string name="game_space_summary">Enhance your gaming experience</string>
+    <string name="game_space_title">Spielmodus</string>
+    <string name="game_space_summary">Verbessern Sie Ihr Spielerlebnis</string>
     <!-- Per-app volume -->
     <string name="app_volume">App volume</string>
     <string name="app_volume_title">Per-app volume control</string>
