@@ -16,101 +16,101 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- General -->
-    <string name="copied_to_clipboard">Copied to clipboard</string>
-    <string name="longpress_to_clipboard">Long-press to copy</string>
+    <string name="copied_to_clipboard">Copiat în clipboard</string>
+    <string name="longpress_to_clipboard">Apăsare lungă pentru a copia</string>
     <!-- Battery temperature -->
-    <string name="battery_temp">Battery temperature</string>
+    <string name="battery_temp">Temperatura bateriei</string>
     <!-- Palyrim Maintainer -->
-    <string name="palyrim_maintainer">Device Maintainer</string>
-    <string name="app_info_install_time">Installed: %1$s</string>
-    <string name="app_info_update_time">Updated: %1$s</string>
+    <string name="palyrim_maintainer">Responsabil dispozitiv</string>
+    <string name="app_info_install_time">Instalat: %1$s</string>
+    <string name="app_info_update_time">Actualizat: %1$s</string>
     <!-- Categories -->
-    <string name="category_name_refresh_rate">Refresh rate</string>
-    <string name="category_name_appearance">Appearance</string>
-    <string name="category_name_volumes">Volume</string>
-    <string name="category_name_security">Security</string>
+    <string name="category_name_refresh_rate">Rata de reîmprospătare</string>
+    <string name="category_name_appearance">Aspect</string>
+    <string name="category_name_volumes">Volum</string>
+    <string name="category_name_security">Securitate</string>
     <string name="theming">Theming</string>
     <!-- General strings -->
     <string name="ok">OK</string>
-    <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="discard_changes">Discard changes</string>
-    <string name="never">Never</string>
-    <string name="always">Always</string>
-    <string name="caution">Caution</string>
-    <string name="delete">Delete</string>
-    <string name="delete_message">Remove selected item?</string>
-    <string name="choose_app">Choose app</string>
-    <string name="enable">Enable</string>
-    <string name="disable">Disable</string>
+    <string name="reset">Resetare</string>
+    <string name="cancel">Anulare</string>
+    <string name="save">Salvare</string>
+    <string name="discard_changes">Renunțare la modificări</string>
+    <string name="never">Niciodată</string>
+    <string name="always">Întotdeauna</string>
+    <string name="caution">Atenție</string>
+    <string name="delete">Ștergere</string>
+    <string name="delete_message">Ștergeți elementul selectat?</string>
+    <string name="choose_app">Alege aplicația</string>
+    <string name="enable">Activare</string>
+    <string name="disable">Dezactivare</string>
     <!--  screen, setting option name to change wifi timeout -->
-    <string name="wifi_timeout">Turn off Wi-Fi automatically</string>
+    <string name="wifi_timeout">Opriți rețeaua Wi-Fi automat</string>
     <!--  screen, setting option summary to change wifi timeout -->
-    <string name="wifi_timeout_summary">Wi-Fi will turn off after <xliff:g id="timeout_description">%1$s</xliff:g> if no network connected</string>
-    <string name="wifi_timeout_summary2">Disabled</string>
+    <string name="wifi_timeout_summary">Wi-Fi se va dezactiva după <xliff:g id="timeout_description">%1$s</xliff:g> dacă nu este conectat la nicio rețea</string>
+    <string name="wifi_timeout_summary2">Dezactivat</string>
     <!-- Connected devices screen, setting option name to change bluetooth timeout -->
-    <string name="bluetooth_timeout">Bluetooth timeout</string>
+    <string name="bluetooth_timeout">Expirare Bluetooth</string>
     <!-- Connected devices screen, setting option summary to change bluetooth timeout -->
-    <string name="bluetooth_timeout_summary">Bluetooth will turn off after <xliff:g id="timeout_description">%1$s</xliff:g> if no devices connected</string>
-    <string name="bluetooth_timeout_summary2">Do not automatically turn off Bluetooth</string>
+    <string name="bluetooth_timeout_summary">Bluetooth se va dezactiva după <xliff:g id="timeout_description">%1$s</xliff:g> dacă nu există dispozitive conectate</string>
+    <string name="bluetooth_timeout_summary2">Nu dezactivați automat Bluetooth</string>
     <!--  screen, setting option summary to change custom timeout -->
-    <string name="custom_timeout_summary_never">Never</string>
-    <string name="custom_timeout_summary_5secs">5 seconds</string>
-    <string name="custom_timeout_summary_10secs">10 seconds</string>
-    <string name="custom_timeout_summary_15secs">15 seconds</string>
-    <string name="custom_timeout_summary_30secs">30 seconds</string>
-    <string name="custom_timeout_summary_1min">1 minute</string>
-    <string name="custom_timeout_summary_2mins">2 minutes</string>
-    <string name="custom_timeout_summary_5mins">5 minutes</string>
-    <string name="custom_timeout_summary_10mins">10 minutes</string>
-    <string name="custom_timeout_summary_20mins">20 minutes</string>
-    <string name="custom_timeout_summary_30mins">30 minutes</string>
-    <string name="custom_timeout_summary_1hour">1 hour</string>
-    <string name="custom_timeout_summary_2hours">2 hours</string>
-    <string name="custom_timeout_summary_4hours">4 hours</string>
-    <string name="custom_timeout_summary_8hours">8 hours</string>
+    <string name="custom_timeout_summary_never">Niciodată</string>
+    <string name="custom_timeout_summary_5secs">5 secunde</string>
+    <string name="custom_timeout_summary_10secs">10 secunde</string>
+    <string name="custom_timeout_summary_15secs">15 secunde</string>
+    <string name="custom_timeout_summary_30secs">30 secunde</string>
+    <string name="custom_timeout_summary_1min">1 minut</string>
+    <string name="custom_timeout_summary_2mins">2 minute</string>
+    <string name="custom_timeout_summary_5mins">5 minute</string>
+    <string name="custom_timeout_summary_10mins">10 minute</string>
+    <string name="custom_timeout_summary_20mins">20 minute</string>
+    <string name="custom_timeout_summary_30mins">30 minute</string>
+    <string name="custom_timeout_summary_1hour">O oră</string>
+    <string name="custom_timeout_summary_2hours">2 ore</string>
+    <string name="custom_timeout_summary_4hours">4 ore</string>
+    <string name="custom_timeout_summary_8hours">8 ore</string>
     <!-- Lockscreen battery info indicator  -->
-    <string name="lockscreen_battery_info_title">Lockscreen charging info</string>
-    <string name="lockscreen_battery_info_summary">Show charging current, voltage, wattage and battery temperature on lockscreen while charging</string>
+    <string name="lockscreen_battery_info_title">Informații despre încărcare pe ecranul de blocare</string>
+    <string name="lockscreen_battery_info_summary">Afișează curentul de încărcare, tensiunea, puterea și temperatura bateriei în timpul încărcării pe ecranul de blocare</string>
     <!-- Adaptive Playback -->
-    <string name="adaptive_playback_screen_title">Smart Pause</string>
-    <string name="adaptive_playback_enabled">Use smart pause</string>
-    <string name="adaptive_playback_disabled_summary">Off</string>
-    <string name="adaptive_playback_intro_text">Automatically pauses media when the volume is muted and will resume automatically when volume is restored within the set time.</string>
-    <string name="adaptive_playback_timeout_title">Use a timeout of</string>
-    <string name="adaptive_playback_timeout_none">No timeout</string>
-    <string name="adaptive_playback_timeout_none_summary">On (no timeout)</string>
-    <string name="adaptive_playback_timeout_30_secs">30 seconds</string>
-    <string name="adaptive_playback_timeout_30_secs_summary">On (30 seconds)</string>
-    <string name="adaptive_playback_timeout_1_min">1 minute</string>
-    <string name="adaptive_playback_timeout_1_min_summary">On (1 minute)</string>
-    <string name="adaptive_playback_timeout_2_min">2 minutes</string>
-    <string name="adaptive_playback_timeout_2_min_summary">On (2 minutes)</string>
-    <string name="adaptive_playback_timeout_5_min">5 minutes</string>
-    <string name="adaptive_playback_timeout_5_min_summary">On (5 minutes)</string>
-    <string name="adaptive_playback_timeout_10_min">10 minutes</string>
-    <string name="adaptive_playback_timeout_10_min_summary">On (10 minutes)</string>
+    <string name="adaptive_playback_screen_title">Pauză inteligentă</string>
+    <string name="adaptive_playback_enabled">Folosește pauză inteligentă</string>
+    <string name="adaptive_playback_disabled_summary">Oprit</string>
+    <string name="adaptive_playback_intro_text">Întrerupe automat media când volumul este oprit și reia automat când volumul este restabilit în timpul setat.</string>
+    <string name="adaptive_playback_timeout_title">Folosește un timp expirare de</string>
+    <string name="adaptive_playback_timeout_none">Fără pauză</string>
+    <string name="adaptive_playback_timeout_none_summary">Activat (fără expirare)</string>
+    <string name="adaptive_playback_timeout_30_secs">30 secunde</string>
+    <string name="adaptive_playback_timeout_30_secs_summary">Pornit (30 secunde)</string>
+    <string name="adaptive_playback_timeout_1_min">1 minut</string>
+    <string name="adaptive_playback_timeout_1_min_summary">Pornit (1 minut)</string>
+    <string name="adaptive_playback_timeout_2_min">2 minute</string>
+    <string name="adaptive_playback_timeout_2_min_summary">Pornit (2 minute)</string>
+    <string name="adaptive_playback_timeout_5_min">5 minute</string>
+    <string name="adaptive_playback_timeout_5_min_summary">Pornit (5 minute)</string>
+    <string name="adaptive_playback_timeout_10_min">10 minute</string>
+    <string name="adaptive_playback_timeout_10_min_summary">Pornit (10 minute)</string>
     <!-- Swipe to screenshot -->
-    <string name="swipe_to_screenshot_title">Swipe to screenshot</string>
-    <string name="swipe_to_screenshot_summary">Swipe 3 fingers down the screen to take a screenshot</string>
+    <string name="swipe_to_screenshot_title">Glisați pentru captura de ecran</string>
+    <string name="swipe_to_screenshot_summary">Glisați 3 degete în jos pe ecran pentru a face o captură de ecran</string>
     <!-- reTicker -->
     <string name="reticker_title">reTicker</string>
-    <string name="reticker_summary">Replace heads-up notification with slim and less invasive version of redesigned ticker</string>
-    <string name="reticker_colored_title">Use app colored background</string>
-    <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
+    <string name="reticker_summary">Înlocuiți notificarea heads-up cu o versiune slim și mai puțin invazivă</string>
+    <string name="reticker_colored_title">Folosește fundal colorat pentru aplicații</string>
+    <string name="reticker_colored_summary">Înlocuiți culoarea de fundal reTicker folosind culoarea principală a aplicației de notificare</string>
     <!-- Ignore secure window -->
-    <string name="developer_options_category">Developer Options</string>
-    <string name="ignore_window_secure_title">Ignore window secure flags</string>
-    <string name="ignore_window_secure_summary">This removes the screenshots and screenrecords limits for all applications. Normally, special applications are replaced with black areas in records. This can be convenient in some cases but may lead to privacy leaks. After changing this toggle, you may need to restart applications for the change to take effect</string>
+    <string name="developer_options_category">Opțiuni dezvoltator</string>
+    <string name="ignore_window_secure_title">Ignorați setări de securitate pentru ferestre</string>
+    <string name="ignore_window_secure_summary">Această setare elimină limitările pentru capturile de ecran și înregistrările de ecran pentru toate aplicațiile. În mod normal, aplicațiile speciale sunt înlocuite cu zone negre în înregistrări. Acest lucru poate fi convenabil în unele cazuri, dar poate duce la scurgeri de confidențialitate. După ce ați schimbat această opțiune, poate fi necesar să reporniți aplicațiile pentru ca modificarea să intre în vigoare</string>
     <!-- Screen Off animation -->
-    <string name="screen_off_animation_title">Screen off animation</string>
-    <string name="screen_off_animation_default">Default</string>
+    <string name="screen_off_animation_title">Animație închidere ecran</string>
+    <string name="screen_off_animation_default">Predefinit</string>
     <string name="screen_off_animation_crt">CRT</string>
-    <string name="screen_off_animation_scale">Scale</string>
+    <string name="screen_off_animation_scale">Scală</string>
     <!-- Game Space -->
-    <string name="game_space_title">Game Space</string>
-    <string name="game_space_summary">Enhance your gaming experience</string>
+    <string name="game_space_title">Spațiu de jocuri</string>
+    <string name="game_space_summary">Îmbunătățiți-vă experiența de joc</string>
     <!-- Per-app volume -->
     <string name="app_volume">App volume</string>
     <string name="app_volume_title">Per-app volume control</string>
