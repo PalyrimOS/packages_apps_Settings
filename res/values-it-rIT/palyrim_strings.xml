@@ -22,8 +22,8 @@
     <string name="battery_temp">Temperatura della batteria</string>
     <!-- Palyrim Maintainer -->
     <string name="palyrim_maintainer">Manutentore del dispositivo</string>
-    <string name="app_info_install_time">Installata: %1$s</string>
-    <string name="app_info_update_time">Aggiornata: %1$s</string>
+    <string name="app_info_install_time">Installata il: %1$s</string>
+    <string name="app_info_update_time">Aggiornata il: %1$s</string>
     <!-- Categories -->
     <string name="category_name_refresh_rate">Frequenza di aggiornamento</string>
     <string name="category_name_appearance">Aspetto</string>
