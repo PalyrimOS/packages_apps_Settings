@@ -131,4 +131,11 @@
     <string name="volume_dialog_timeout_title">Volume panel timeout</string>
     <!-- Units -->
     <string name="unit_seconds">seconds</string>
+    <!-- Font style / Icon pack -->
+    <string name="theme_customization_font_title">Stile del carattere</string>
+    <string name="theme_customization_font_summary">Imposta lo stile del carattere di sistema</string>
+    <string name="theme_customization_icon_pack_title">Pacchetto icone</string>
+    <string name="theme_customization_icon_pack_summary">Imposta un pacchetto di icone personalizzato</string>
+    <string name="theme_customization_icon_shape_title">Forma delle icone</string>
+    <string name="theme_customization_icon_shape_summary">Imposta la forma delle icone di sistema</string>
 </resources>
