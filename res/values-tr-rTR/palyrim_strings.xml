@@ -131,4 +131,11 @@
     <string name="volume_dialog_timeout_title">Volume panel timeout</string>
     <!-- Units -->
     <string name="unit_seconds">seconds</string>
+    <!-- Font style / Icon pack -->
+    <string name="theme_customization_font_title">Yazıtipi biçimi</string>
+    <string name="theme_customization_font_summary">Sistem yazı tipi stilini ayarlayın</string>
+    <string name="theme_customization_icon_pack_title">Simge paketi</string>
+    <string name="theme_customization_icon_pack_summary">Özel simge paketi stili ayarlayın</string>
+    <string name="theme_customization_icon_shape_title">Simge şekli</string>
+    <string name="theme_customization_icon_shape_summary">Sistem simge şeklini ayarlayın</string>
 </resources>
