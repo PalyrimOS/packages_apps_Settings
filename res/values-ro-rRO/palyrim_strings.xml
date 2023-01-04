@@ -129,4 +129,6 @@
     <!-- Volume panel -->
     <string name="volume_panel_category">Volume panel</string>
     <string name="volume_dialog_timeout_title">Volume panel timeout</string>
+    <!-- Units -->
+    <string name="unit_seconds">seconds</string>
 </resources>
