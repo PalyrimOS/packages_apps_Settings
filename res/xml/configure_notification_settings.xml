@@ -127,6 +127,22 @@
             android:order="10"
             android:defaultValue="false" />
 
+        <com.palyrim.support.preferences.SystemSettingSwitchPreference
+            android:key="new_reticker"
+            android:dependency="reticker_status"
+            android:title="@string/new_reticker_title"
+            android:summary="@string/new_reticker_summary"
+            android:order="11"
+            android:defaultValue="false" />
+
+        <com.palyrim.support.preferences.SystemSettingSwitchPreference
+            android:key="new_reticker_animation"
+            android:dependency="reticker_status"
+            android:title="@string/new_reticker_animation_title"
+            android:summary="@string/new_reticker_animation_summary"
+            android:order="12"
+            android:defaultValue="false" />
+
         <!-- Heads up -->
         <lineageos.preference.GlobalSettingSwitchPreference
             android:key="heads_up_notifications_enabled"
