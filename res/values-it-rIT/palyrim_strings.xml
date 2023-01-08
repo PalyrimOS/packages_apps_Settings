@@ -99,6 +99,10 @@
     <string name="reticker_summary">Sostituire la notifica fluttuante con versione più sottile e meno invasiva</string>
     <string name="reticker_colored_title">Usa il colore dell\'app per lo sfondo</string>
     <string name="reticker_colored_summary">Sostituisce il colore di sfondo del reTicker con il colore di notifica principale dell\'app</string>
+    <string name="new_reticker_title">Alternative reTicker</string>
+    <string name="new_reticker_summary">Use an alternative layout for reticker that is inspired from ios</string>
+    <string name="new_reticker_animation_title">Alternative reTicker animation</string>
+    <string name="new_reticker_animation_summary">Use a different animation for reticker (enabled by default on alternative reTicker)</string>
     <!-- Ignore secure window -->
     <string name="developer_options_category">Opzioni sviluppatore</string>
     <string name="ignore_window_secure_title">Ignora flag di sicurezza</string>
@@ -138,4 +142,7 @@
     <string name="theme_customization_icon_pack_summary">Imposta un pacchetto di icone personalizzato</string>
     <string name="theme_customization_icon_shape_title">Forma delle icone</string>
     <string name="theme_customization_icon_shape_summary">Imposta la forma delle icone di sistema</string>
+    <!-- Old mobile type icons -->
+    <string name="use_old_mobiletype_title">Small mobile type icon</string>
+    <string name="use_old_mobiletype_summary">Show mobile type icon on top of the signal indicator</string>
 </resources>
