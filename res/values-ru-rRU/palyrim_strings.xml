@@ -76,7 +76,7 @@
     <string name="adaptive_playback_screen_title">Адаптивное воспроизведение</string>
     <string name="adaptive_playback_enabled">Использовать адаптивное воспроизведение</string>
     <string name="adaptive_playback_disabled_summary">Выкл</string>
-    <string name="adaptive_playback_intro_text">Автоматически приостанавливает воспроизведение медиа при отключении громкости и автоматически возобновляет его при увеличении громкости в течение заданного времени.</string>
+    <string name="adaptive_playback_intro_text">Автоматически приостанавливает воспроизведение медиа при отключении громкости и автоматически возобновляет его при увеличении громкости в течении заданного времени.</string>
     <string name="adaptive_playback_timeout_title">Use a timeout of</string>
     <string name="adaptive_playback_timeout_none">No timeout</string>
     <string name="adaptive_playback_timeout_none_summary">On (no timeout)</string>
